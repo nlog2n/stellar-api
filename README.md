@@ -12,4 +12,7 @@ Although Stellar provides a good [API portal](https://www.stellar.org/laboratory
 
 
 ## Swagger file
-TBD 
+
+See ![swagger file](swagger.yaml)
+
+## SDK generation
